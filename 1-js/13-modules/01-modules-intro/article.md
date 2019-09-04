@@ -1,9 +1,9 @@
 
 # Modules, introduction
 
-As our application grows bigger, we want to split it into multiple files, so called "modules". A module usually contains a class or a library of functions.
+به همان مقدار که پروژه ما بزرگتر میشود , ما نیاز داریم تا آنرا به فایل های کوچکتر تقسیم کنیم, بنابراین 'module' ها را میخوانیم. یک ماژول حاوی کلاس ها و کتابخانه فانکشن های مختلف است..
 
-For a long time, JavaScript existed without a language-level module syntax. That wasn't a problem, because initially scripts were small and simple, so there was no need.
+برای مدت زیادی, JavaScript existed without a language-level module syntax. That wasn't a problem, because initially scripts were small and simple, so there was no need.
 
 But eventually scripts became more and more complex, so the community invented a variety of ways to organize code into modules, special libraries to load modules on demand.
 
